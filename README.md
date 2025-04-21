@@ -380,8 +380,6 @@ Once you create the new set, a blank canvas will open where you can put the grap
 In our case, once the data arrived, this is how the dashboard looked like:
 
 
-Here's a video that you can play to see the real process:
-[Video Project](https://drive.google.com/file/d/1JHuj9ig3mrOFlDgkdsbDa80e4lONRu99/view)
 
 ## Thanks:
 This is how our project ends, once the dashboard has run you can check pgadmin where you will see the dimensions and the fact table that was created during the load task.
