@@ -1,0 +1,16 @@
+venv/
+job_salary_data.csv
+job_salaries_combined.csv
+jobss.csv
+airflow.cfg
+airflow.db
+airflow_backup.db
+airflow-webserver.pid
+standalone_admin_password.txt
+webserver_config.py
+logs/
+__pycache__/
+API_transform.csv
+dump.sql
+Credentials/
+
