@@ -1,6 +1,8 @@
 # Linkedin Job Postings <img src="https://github.com/user-attachments/assets/db0a41d5-d211-4066-9853-1b93d96c938d" alt="Descripción de la imagen" width="50" height="50">
 
 👥 Team Contributions
+
+
 Ashutosh Khadse:
 Led the initial phases of the project, focusing on data extraction and transformation. He was instrumental in setting up the PostgreSQL database using SQLAlchemy, ensuring efficient data loading and management.
 
